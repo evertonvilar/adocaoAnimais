@@ -11,6 +11,9 @@ Este projeto é uma API desenvolvida em Java com Spring Boot para a gestão de a
 - **PostgreSQL**
 - **Docker**
 
+## Diagrama da arquitetura
+<img width="2370" height="1770" alt="Arquitetura_API_AdocaoAnimais" src="https://github.com/user-attachments/assets/14af4fdf-ebd5-4904-8e40-e55e005fdc92" />
+
 ## Como Executar o Projeto
 
 Necessário ter Docker instalado.
