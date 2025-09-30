@@ -2,10 +2,6 @@
 
 Este projeto é uma API desenvolvida em Java com Spring Boot para a gestão de adoção de animais. A aplicação oferece endpoints para gerenciar informações sobre animais disponíveis para adoção, adotantes e outras operações relacionadas.
 
-## Tutorial
-
-Você pode ver um passo a passo de como foi construído [aqui](https://joserodriguesjr.com/posts/api-using-spring-data-rest/)
-
 ## Tecnologias Utilizadas
 
 - **Java 21**
