@@ -20,8 +20,8 @@ Necessário ter Docker instalado.
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/joserodriguesjr/animal-adoption.git
-   cd animal-adoption
+   git clone https://github.com/evertonvilar/adocaoAnimais.git
+   cd adocaoAnimais
    ```
 
 2. **Suba os containers**
